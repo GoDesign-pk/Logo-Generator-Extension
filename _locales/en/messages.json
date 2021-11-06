@@ -1,0 +1,8 @@
+{
+    "extName": {
+        "message": "CrossPilot"
+    },
+    "extDescription": {
+        "message": "Install Opera extensions in Chrome in a sandboxed environment"
+    }
+}
